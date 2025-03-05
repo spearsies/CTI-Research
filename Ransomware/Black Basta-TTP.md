@@ -1,3 +1,5 @@
+# Black Basta's Tools
+
 | Tactic 	| Technique 	| Details 	|
 |:---:	|:---:	|:---:	|
 | Initial Acces 	| Phishing (T1566) 	| The actors use spearphishing emails to gain initial access. 	|
@@ -43,6 +45,10 @@
 | Impact 	| Inhibit System Recovery (T1490) 	| Affiliates use vssadmin.exe to delete volume shadow copies. 	|
 | Impact  	| Service Stop (T1489) 	| Actors may stop or disable services on a system to render it   unavailable. 	|
 | Impact 	| Data Encrypted for Impact (T1486) 	| Black Basta affiliates used a public key to fully encrypt   files. 	|
+
+
+
+
 
 
 ## Mapped by: carlosadrianosj and crocodyli

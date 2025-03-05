@@ -1,5 +1,3 @@
-# Mapped by: carlosadrianosj
-
 
 ## BlackCat
 | Tatica ID | Tecnica ID | Nome | Descricao |

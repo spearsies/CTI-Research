@@ -1,4 +1,3 @@
-# Mapped by: carlosadrianosj
 
 ## Lockbit
 | Tatica ID | Tecnica ID | Nome | Descricao |

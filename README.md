@@ -1,7 +1,8 @@
-Cyber Threat Intelligence Research Repository A central hub for storing, organizing, and sharing cyber threat intelligence (CTI) research. This repository includes detailed analyses of threat actors, Indicators of Compromise (IOCs), Tactics, Techniques, and Procedures (TTPs), and global trends in cybersecurity threats.
+# Cyber Threat Intelligence Research Repository A central hub for storing, organizing, and sharing cyber threat intelligence (CTI) research. 
+This repository includes detailed analyses of threat actors, Indicators of Compromise (IOCs), Tactics, Techniques, and Procedures (TTPs), and global trends in cybersecurity threats.
 
-Features:
-Profiles of cyber threat actors, including motivations, target industries, and geographies.
+## Features:
+### Profiles of cyber threat actors, including motivations, target industries, and geographies.
 
 Indicators of Compromise (IOCs) such as hashes, domains, IPs, and more.
 

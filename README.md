@@ -23,5 +23,4 @@ Date Published	Ransomware/Extortionist	#StopRansomware Report
 9-Mar-22	Conti	CISA Alert aa21-265a
 18-Oct-21	BlackMatter	CISA Alert aa21-291a
 8-Jul-21	DarkSide	CISA Alert aa21-131a
-![image](https://github.com/user-attachments/assets/903f84dc-7dab-413a-9847-7555bb60865d)
-
+![image](https://github.com/user-attachments/assets/37cb320f-b3ce-4e01-a814-c8d6b52f1ee9)

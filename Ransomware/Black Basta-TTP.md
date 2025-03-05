@@ -46,9 +46,3 @@
 | Impact  	| Service Stop (T1489) 	| Actors may stop or disable services on a system to render it   unavailable. 	|
 | Impact 	| Data Encrypted for Impact (T1486) 	| Black Basta affiliates used a public key to fully encrypt   files. 	|
 
-
-
-
-
-
-## Mapped by: carlosadrianosj and crocodyli

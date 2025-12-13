@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="A sleek cybersecurit" src="https://github.com/user-attachments/assets/fcfb7607-f48c-4068-94e2-1ec50193e24d" />
+
 # Cybersecurity | Discipline | Innovation
 ## ===============================================
    Stanley Spears (cyb3rlop3)

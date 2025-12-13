@@ -8,10 +8,6 @@
 ===============================================
 
 
-Perfect, Stanley — here’s how your **main README** can be polished into a recruiter‑friendly portfolio hub while linking cleanly to your `/docs` suite for technical depth.  
-
----
-
 # Threat Intelligence Aggregator 🛡️
 
 **Author:** Stanley Spears (cyb3rlop3)  
